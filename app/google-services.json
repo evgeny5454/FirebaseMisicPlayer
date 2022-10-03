@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482038306485",
+    "project_id": "music-player-fb00e",
+    "storage_bucket": "music-player-fb00e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482038306485:android:1898ffb0e60f4c70be10fc",
+        "android_client_info": {
+          "package_name": "com.evgeny5454.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482038306485-3q3nresnolevjeeu6ao0keiloi90rsfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evgeny5454.musicplayer",
+            "certificate_hash": "8b621ef98b4efa7a994394a0b8bdd00e1f9b285a"
+          }
+        },
+        {
+          "client_id": "482038306485-ne4bm5iapia4dqodhsnph8imr3i1ries.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzuao5H2iksrl6X3gKiKmUfxwhXXLgQZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482038306485-ne4bm5iapia4dqodhsnph8imr3i1ries.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
