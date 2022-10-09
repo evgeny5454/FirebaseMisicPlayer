@@ -3,8 +3,13 @@
 
 Приложение загружает поток музыки с сервера Firebase и возпроизводит. Используется ExoPlayer, загрузка происходит в Foreground Service что позволяет сворачивать Activity приложения и прослушивать музыку при блокировке экрана.
 
-  
-        <img height="300" alt=" " src="https://github.com/evgeny5454/FirebaseMisicPlayer/blob/master/app/Screenshot_20221009-154136_Music%20Player.jpg"/>
+  <table>
+    <tr>
+      <td><img src="https://github.com/evgeny5454/FirebaseMisicPlayer/blob/master/app/Screenshot_20221009-154136_Music%20Player.jpg" height="600"/></td>
+      <td><img src="https://github.com/evgeny5454/Pandora-Store/blob/master/Images/Screen2.jpg" height="600"/></td>
+      <td><img src="https://github.com/evgeny5454/Pandora-Store/blob/master/Images/Screen3.jpg" height="600"/></td>
+    </tr>
+  </table>
  
    
   
