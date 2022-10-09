@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td><Image>
-        <img width="200" height="300" alt=" " src="https://github.com/evgeny5454/FirebaseMisicPlayer/blob/master/app/Screenshot_20221009-154136_Music%20Player.jpg"/>
+        <img height="300" alt=" " src="https://github.com/evgeny5454/FirebaseMisicPlayer/blob/master/app/Screenshot_20221009-154136_Music%20Player.jpg"/>
     </Image></td>
      <td><img src="https://github.com/evgeny5454/Pandora-Store/blob/master/Images/Screen2.jpg" height="600"/></td>
      <td><img src="https://github.com/evgeny5454/Pandora-Store/blob/master/Images/Screen3.jpg" height="600"/></td>
