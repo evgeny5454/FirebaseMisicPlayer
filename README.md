@@ -5,7 +5,9 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/evgeny5454/Pandora-Store/blob/master/Images/Screen1.jpg" height="600"/></td>
+    <td><Image>
+        <img width="100" height="200" alt=" " src="https://github.com/evgeny5454/FirebaseMisicPlayer/blob/master/app/Screenshot_20221009-154136_Music%20Player.jpg"/>
+    </Image></td>
      <td><img src="https://github.com/evgeny5454/Pandora-Store/blob/master/Images/Screen2.jpg" height="600"/></td>
      <td><img src="https://github.com/evgeny5454/Pandora-Store/blob/master/Images/Screen3.jpg" height="600"/></td>
   </tr>
