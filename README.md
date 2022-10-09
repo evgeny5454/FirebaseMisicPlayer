@@ -6,8 +6,8 @@
   <table>
     <tr>
       <td><img src="https://github.com/evgeny5454/FirebaseMisicPlayer/blob/master/app/Screenshot_20221009-154136_Music%20Player.jpg" height="600"/></td>
-      <td><img src="https://github.com/evgeny5454/Pandora-Store/blob/master/Images/Screen2.jpg" height="600"/></td>
-      <td><img src="https://github.com/evgeny5454/Pandora-Store/blob/master/Images/Screen3.jpg" height="600"/></td>
+      <td><img src="https://github.com/evgeny5454/FirebaseMisicPlayer/blob/master/app/Screenshot_20221009-154157_Music%20Player.jpg" height="600"/></td>
+      <td><img src="https://github.com/evgeny5454/FirebaseMisicPlayer/blob/master/app/Screenshot_20221009-154210_Music%20Player.jpg" height="600"/></td>
     </tr>
   </table>
  
