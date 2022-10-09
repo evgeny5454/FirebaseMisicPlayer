@@ -3,9 +3,9 @@
 
 Приложение загружает поток музыки с сервера Firebase и возпроизводит. Используется ExoPlayer, загрузка происходит в Foreground Service что позволяет сворачивать Activity приложения и прослушивать музыку при блокировке экрана.
 
-    <Image>
+  
         <img height="300" alt=" " src="https://github.com/evgeny5454/FirebaseMisicPlayer/blob/master/app/Screenshot_20221009-154136_Music%20Player.jpg"/>
-    </Image>
+ 
    
   
 
